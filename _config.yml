@@ -1,8 +1,5 @@
-name: Sounds & Pictures
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.55408
-title: Sounds & Pictures
+title: Sounds & Pictures content creation
+purpose: []
 collections:
   - index:
       path: /
@@ -15,27 +12,30 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+color:
+  saturation: 0.9436089
+  brandStrength: 0.9006445
+  lightness: 0.625
+  brandColors:
+    - '#436276'
+    - '#FFFFFF'
+    - '#1D1D1B'
+    - '#888888'
+    - '#E0E0E0'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+name: Sounds & Pictures
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#436373'
-    - '#151412'
-    - '#c45057'
-    - '#8694a0'
-    - '#ffffff'
-  brandStrength: 0.5625
-  lightness: 0.25
-  saturation: 0.125
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.55408
+layout_spectrum: 1
