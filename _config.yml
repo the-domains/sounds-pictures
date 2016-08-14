@@ -1,14 +1,28 @@
+name: Sounds & Pictures
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5139635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3045112
-  lightness: 0.8254564
-  brandStrength: 0.9831033
   brandColors:
     - '#436276'
     - '#FFFFFF'
     - '#1D1D1B'
     - '#888888'
     - '#E0E0E0'
-  rhythmicContrast: 0.2787325
-name: Sounds & Pictures
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.5
+purpose: []
