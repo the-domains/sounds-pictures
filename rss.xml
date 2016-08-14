@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sounds & Pictures]]></title>
-        <description><![CDATA[Sounds & Pictures]]></description>
+        <title><![CDATA[Sounds & Pictures content creation]]></title>
+        <description><![CDATA[Sounds & Pictures content creation]]></description>
         <link>http://sounds.pictures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 18:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 19:34:18 GMT</lastBuildDate>
         <atom:link href="http://sounds.pictures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who you work with counts]]></title>
@@ -12,13 +12,6 @@
             <link>http://sounds.pictures/who-you-work-with-counts/index.html</link>
             <guid isPermaLink="false">fefd1ed6-3620-42fc-a710-2f3a3485da10</guid>
             <pubDate>Sun, 14 Aug 2016 18:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to create something clean yet alluring... ]]></title>
-            <description><![CDATA[<article><h1>Want to create something clean yet alluring... </h1><p>For the Love Your Doorstep Masquerade Ball 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/380b9705-31a4-4d68-9025-4cbebb312f46.jpg"></article>]]></description>
-            <link>http://sounds.pictures/want-to-create-something-clean-yet-alluring/index.html</link>
-            <guid isPermaLink="false">eeedb4a4-b693-4500-8017-5f42bc0f3e20</guid>
-            <pubDate>Sun, 14 Aug 2016 01:08:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
